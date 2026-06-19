@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid Login,marsfamily@abc.com,Test@123,success
+Invalid Login,abcd@gmail.com,qwerty123,failure 
