@@ -1,0 +1,5 @@
+Error is Error: locator.fill: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('#input-email')
+
+Error is Error: locator.fill: Target page, context or browser has been closed

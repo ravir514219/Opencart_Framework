@@ -1,0 +1,7 @@
+Error description : Error: locator.fill: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('#input-password')
+    - locator resolved to <input value="" type="password" name="password" id="input-password" class="form-control" placeholder="Password"/>
+    - fill("KpVmKMCnNw")
+  - attempting fill action
+
